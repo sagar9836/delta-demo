@@ -1,2 +1,2 @@
-# delta-demo
+# apnacollege-demo
 This is a demo for Git &amp; Github class.
